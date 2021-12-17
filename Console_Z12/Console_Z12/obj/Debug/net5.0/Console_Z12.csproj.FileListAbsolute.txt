@@ -1,0 +1,16 @@
+C:\Users\Dmitryi Gick\source\repos\Console_Z12\Console_Z12\bin\Debug\net5.0\Console_Z12.exe
+C:\Users\Dmitryi Gick\source\repos\Console_Z12\Console_Z12\bin\Debug\net5.0\Console_Z12.deps.json
+C:\Users\Dmitryi Gick\source\repos\Console_Z12\Console_Z12\bin\Debug\net5.0\Console_Z12.runtimeconfig.json
+C:\Users\Dmitryi Gick\source\repos\Console_Z12\Console_Z12\bin\Debug\net5.0\Console_Z12.runtimeconfig.dev.json
+C:\Users\Dmitryi Gick\source\repos\Console_Z12\Console_Z12\bin\Debug\net5.0\Console_Z12.dll
+C:\Users\Dmitryi Gick\source\repos\Console_Z12\Console_Z12\bin\Debug\net5.0\ref\Console_Z12.dll
+C:\Users\Dmitryi Gick\source\repos\Console_Z12\Console_Z12\bin\Debug\net5.0\Console_Z12.pdb
+C:\Users\Dmitryi Gick\source\repos\Console_Z12\Console_Z12\obj\Debug\net5.0\Console_Z12.csproj.AssemblyReference.cache
+C:\Users\Dmitryi Gick\source\repos\Console_Z12\Console_Z12\obj\Debug\net5.0\Console_Z12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitryi Gick\source\repos\Console_Z12\Console_Z12\obj\Debug\net5.0\Console_Z12.AssemblyInfoInputs.cache
+C:\Users\Dmitryi Gick\source\repos\Console_Z12\Console_Z12\obj\Debug\net5.0\Console_Z12.AssemblyInfo.cs
+C:\Users\Dmitryi Gick\source\repos\Console_Z12\Console_Z12\obj\Debug\net5.0\Console_Z12.csproj.CoreCompileInputs.cache
+C:\Users\Dmitryi Gick\source\repos\Console_Z12\Console_Z12\obj\Debug\net5.0\Console_Z12.dll
+C:\Users\Dmitryi Gick\source\repos\Console_Z12\Console_Z12\obj\Debug\net5.0\ref\Console_Z12.dll
+C:\Users\Dmitryi Gick\source\repos\Console_Z12\Console_Z12\obj\Debug\net5.0\Console_Z12.pdb
+C:\Users\Dmitryi Gick\source\repos\Console_Z12\Console_Z12\obj\Debug\net5.0\Console_Z12.genruntimeconfig.cache
